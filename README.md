@@ -32,9 +32,7 @@ void main () {                  //main Funktion
 void main () {  
 
     int a = 1;          //Variable a deklarieren/Initialisieren
-    
     int b = 2 * a;      //Variable b deklarieren und basierend auf a initialisieren
-    
     printf("%d", &b);
     
 }
@@ -44,11 +42,8 @@ void main () {
 
 ```
 void main () {
-
     int a = 0;
-    
     scanf("%d", &a);       //Input nehmen
-    
     printf("%d", a);       //Input als output ausgeben
     
 }
