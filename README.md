@@ -22,7 +22,6 @@
 ```
 void main () {                  //main Funktion
     printf("Hello, world");     //Textausgabe
-
 }
 ```
 
